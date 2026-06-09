@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MasonYayYay
-- 👀 I’m interested in coding, video games like Fortnite, Minecraft, Satisfactory, And i code in Scratch.
-- 🌱 I’m currently learning how to code on Scratch
-- 📫 How to reach me? my scratch account: https://scratch.mit.edu/users/MasonYayYay/
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: right now I'm 12. and i want to be a video game dsiner when i grow up.
+- 👀 I’m interested in coding, video games and Linux (BTW I use Arch Linux).
+- 🌱 I’m currently learning how to code and use Linux.
+- 📫 How to reach me? Working on it.
